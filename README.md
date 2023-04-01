@@ -1,6 +1,6 @@
 ## Usage
 
-### Online System:https://rulervis.github.io/ruler/
+### Online System: https://rulervis.github.io/ruler/
 
 Those templates dependencies are maintained via [pnpm](https://pnpm.io) via `pnpm up -Lri`.
 
